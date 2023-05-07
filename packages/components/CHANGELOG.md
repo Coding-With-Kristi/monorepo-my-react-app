@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.1.0 (2023-05-07)
+
+
+### Features
+
+* config lerna ([19cf52d](https://github.com/coding-with-kristi/my-react-app/commit/19cf52d8fa3be28181cf5304366f61b18c35eea3))
+
+
+
+
+
 ## 0.0.1 (2023-05-07)
 
 
