@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "name": "@coding-with-kristi/components",
+  "packageManager": "yarn@3.5.0",
+  "repository": {
+    "url": "https://github.com/coding-with-kristi/my-react-app"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/coding-with-kristi"
+  }
+}

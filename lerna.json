@@ -1,0 +1,16 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "useWorkspaces": true,
+  "version": "independent",
+  "command": {
+    "version": {
+      "message": "chore(release): publish package",
+      "conventionalCommits": true
+    },
+    "publish": {
+      "registry": "https://npm.pkg.github.com"
+    }
+  }
+}
