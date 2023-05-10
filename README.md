@@ -1,6 +1,8 @@
 # Manage and publish monorepo with Lerna.js in private NPM registries
 
-A demo project on how to configure a monorepo in a react application, generated with create react app. Uses lerna.json to manage dependencies, versioning and publishing of packages. GitHub packages is used to publish the packages.
+A quick guide on how to configure a monorepo in a react application created with Create React App. Uses lerna.js to manage dependencies, versioning and publishing of packages. GitHub packages is used to publish the packages.
+
+This guide demonstrates how shared components in a react application can be converted into a package by using Lerna.js, and how to publish those in GitHub private registry and use them as dependencies in some other project.
 
 
 # Getting Started with Create React App
@@ -40,5 +42,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `@craco/craco
 
-**Note: Used to over override Create React App configuration without ejecting it. Since Create React App only compiles the `src` folder, `cranco` is used to override `webpack` configuration to include the `packages` folder as well.
+**Note: Used to over override Create React App configuration without ejecting it. Since Create React App only compiles the `src` folder, `cranco` is used to override `webpack` configuration to include the `packages` folder as well created by Lerna.js which contains our packages (shared components).
 
