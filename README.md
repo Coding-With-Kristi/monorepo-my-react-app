@@ -1,3 +1,12 @@
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+![LinkedIn Follow](https://img.shields.io/badge/Follow-Kristi%20Mita-blue?style=flat-square&logo=LinkedIn&url=https://www.linkedin.com/in/kristi-mita/)
+
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com)
+
 # Manage and publish monorepo with Lerna.js in private NPM registries
 
 A quick guide on how to configure a monorepo in a react application created with Create React App. Uses lerna.js to manage dependencies, versioning and publishing of packages. GitHub packages is used to publish the packages.
