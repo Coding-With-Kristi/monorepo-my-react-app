@@ -1,4 +1,5 @@
-![LinkedIn Follow](https://img.shields.io/badge/Follow-Kristi%20Mita-blue?style=flat-square&logo=LinkedIn&url=https://www.linkedin.com/in/kristi-mita/)
+
+<a href="https://www.linkedin.com/in/kristi-mita/"><img src="https://img.shields.io/badge/Kristi Mita-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a></br>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
